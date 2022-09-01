@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elitech/static/css/main.5bc68568.css",
-    "main.js": "/elitech/static/js/main.d87f97c6.js",
+    "main.css": "/elitech/static/css/main.c35a57e0.css",
+    "main.js": "/elitech/static/js/main.d4bbaa38.js",
     "static/js/787.7eceb509.chunk.js": "/elitech/static/js/787.7eceb509.chunk.js",
     "static/media/me-about.png": "/elitech/static/media/me-about.c10db908632e4348931f.png",
     "static/media/me.png": "/elitech/static/media/me.75950d4ff8057c3c3795.png",
@@ -13,12 +13,12 @@
     "static/media/portfolio3.jpg": "/elitech/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/elitech/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/elitech/index.html",
-    "main.5bc68568.css.map": "/elitech/static/css/main.5bc68568.css.map",
-    "main.d87f97c6.js.map": "/elitech/static/js/main.d87f97c6.js.map",
+    "main.c35a57e0.css.map": "/elitech/static/css/main.c35a57e0.css.map",
+    "main.d4bbaa38.js.map": "/elitech/static/js/main.d4bbaa38.js.map",
     "787.7eceb509.chunk.js.map": "/elitech/static/js/787.7eceb509.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bc68568.css",
-    "static/js/main.d87f97c6.js"
+    "static/css/main.c35a57e0.css",
+    "static/js/main.d4bbaa38.js"
   ]
 }
