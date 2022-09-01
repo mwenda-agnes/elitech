@@ -29,27 +29,7 @@ const data = [
     github: 'https://github.com',
     demo: 'https://dribbble.com/shots/15224552-Dark-Theme-UI-Elements',
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: 'Dark Theme UI Elements',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15224552-Dark-Theme-UI-Elements',
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Dark Theme UI Elements',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15224552-Dark-Theme-UI-Elements',
-  },  
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Dark Theme UI Elements',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15224552-Dark-Theme-UI-Elements',
-  },
+  
 ]
 
 
